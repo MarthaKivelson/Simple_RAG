@@ -1,0 +1,17 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+
+# Generated vector database
+vector_store/
+
+# Personal documents — remove if you don't want to publish them
+data/*.pdf
+
+# IDE
+.vscode/

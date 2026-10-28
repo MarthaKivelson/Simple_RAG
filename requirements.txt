@@ -1,0 +1,7 @@
+numpy 
+dotenv 
+python-docx
+pypdf 
+faiss-cpu
+exceptions
+openai
